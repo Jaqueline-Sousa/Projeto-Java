@@ -1,3 +1,5 @@
+package Revisão;
+
 import java.util.Scanner;
 
 public class Condicional {
